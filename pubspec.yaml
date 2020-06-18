@@ -44,7 +44,7 @@ flutter:
   fonts:
     - family: Gotham
       fonts:
-        - asset: fonts/GothamLight.ttf
-        - asset: fonts/GothamBold.ttf
-        - asset: fonts/GothamMedium.ttf
-        - asset: fonts/GothamBook.ttf
+        - asset: assets/fonts/GothamLight.ttf
+        - asset: assets/fonts/GothamBold.ttf
+        - asset: assets/fonts/GothamMedium.ttf
+        - asset: assets/fonts/GothamBook.ttf
